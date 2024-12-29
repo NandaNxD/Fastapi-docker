@@ -1,4 +1,4 @@
-#First Docker file
+# First Docker file
 
 Step 1: Create python virtual environment to isolate packages 
 Go to pwd, execute commands [help](https://fastapi.tiangolo.com/virtual-environments/#upgrade-pip)
