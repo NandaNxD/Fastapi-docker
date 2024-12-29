@@ -8,6 +8,6 @@ Go to pwd, execute commands [help](https://fastapi.tiangolo.com/virtual-environm
 >  ` source .venv/bin/activate `  
 > ` python -m pip install xyz `  
 
-Step 2: docker build name .
+Step 2: docker build -t fastapi-demo .
 
 Step 3: docker run with hostport
